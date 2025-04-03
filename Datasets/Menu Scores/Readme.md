@@ -1,4 +1,5 @@
 **Menu Scores**
+
 This folder focuses on menu item performance analysis to support data-driven menu optimization for Singi's Kitchen.
 
 Primitive (Menu scores not included): Early-stage dataset without computed menu scores, used during initial data exploration.
