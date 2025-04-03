@@ -15,7 +15,7 @@ This project applies *Business Data Management principles* to a real-world busin
 
 ### Key Areas Analyzed  
 
-- *Potential Score Dataset* – Understanding customer behavior and identifying high-impact menu items.  
+- *Potential Score Dataset* – Understanding customer behavior and identifying high-retention zones within the community.
 - *Inventory Management Dataset* – Tracking stock levels, reducing wastage, and optimizing purchasing decisions.  
 - *Menu Score Dataset* – Evaluating item popularity, profitability, and pricing strategies.  
 
@@ -30,3 +30,4 @@ This project applies *Business Data Management principles* to a real-world busin
 ## Repository Structure  
 
 This repository contains the following files and directories:
+
