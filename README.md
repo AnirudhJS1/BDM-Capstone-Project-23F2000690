@@ -31,35 +31,31 @@ This project applies *Business Data Management principles* to a real-world busin
 
 This repository contains the following files and directories:
 
-📂 Datasets/
-├── 📂 Inventory Management/
-│ ├── Finalized/
-│ ├── Primitive/
-│ ├── readme.md
-│
-├── 📂 Menu Scores/
-│ ├── Finalized/
-│ ├── Finalized Optimized Menu Image/
-│ ├── Finalized Optimized Menu/
-│ ├── Primitive/
-│ ├── readme.md
-│
-├── 📂 Potential Scores/
-│ ├── Potential Included/
-│ ├── Primitive/
-│ ├── readme.md
-│
-├── readme.md
+📂 Datasets
+  📂 Inventory Management
+    Finalized
+    Primitive
+    readme.md
+  📂 Menu Scores
+    Finalized
+    Finalized Optimized Menu Image
+    Finalized Optimized Menu
+    Primitive
+    readme.md
+  📂Potential Scores
+    Potential Included
+    Primitive
+    readme.md
 
-📂 Customer Segmentation and Price Optimization Strategies for Singi's Kitchen/
+📄 Customer Segmentation and Price Optimization Strategies for Singi's Kitchen
 
-📂 End-term/
+📄 End-term
 
-📂 Mid-term/
+📄 Mid-term
 
-📂 Proposal/
+📄 Proposal
 
-📂 README.md (You are here)
+🗂️ README.md (You are here)
 
 ## Thank You  
 
@@ -67,7 +63,7 @@ Thank you for taking the time to explore this project. I hope it provides valuab
 
 If you found this project helpful, consider *starring* ⭐ the repository to show your support.  
 
-I also welcome your *thoughts, feedback, and suggestions*. Feel free to open an issue or reach out with any ideas on how this could be improved.  
+I also welcome your *thoughts, feedback, and suggestions*. Feel free to open an issue or reach out to me to discuss more about the details of the project
 
 Happy learning and best of luck with your own project!
 
