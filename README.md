@@ -7,7 +7,7 @@ Welcome to my Business Data Management (BDM) capstone project repository. If you
 - *Refer, understand, and get inspired* – If you need guidance on structuring your project, feel free to explore my work.  
 - *Do not copy-paste* – Directly copying any content from this project will lead to plagiarism, which may result in your project being rejected. Ensure that your work is original and reflects your own analysis.  
 
-This project was completed in the **March 2025 cycle**, and I secured a total score of **85 (Grade A)**. The project focuses on **Singi’s Kitchen**, a community restaurant in Kompally, Hyderabad, and aims to analyze key business aspects to propose data-driven strategies for increasing sales.  
+This project was completed in the **March 2025 cycle**, and I secured a total score of **84 (Grade A)**. The project focuses on **Singi’s Kitchen**, a community restaurant in Kompally, Hyderabad, and aims to analyze key business aspects to propose data-driven strategies for increasing sales.  
 
 ## Project Overview  
 
