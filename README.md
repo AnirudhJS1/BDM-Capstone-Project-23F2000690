@@ -13,9 +13,14 @@ This project was completed in the **March 2025 cycle**, and I secured a total sc
 
 This project applies *Business Data Management principles* to a real-world business scenario. The objective was to collect and analyze operational data from Singi’s Kitchen and develop actionable recommendations to improve business efficiency and revenue growth.  
 
+## Awards & Recognition
+
+🎉 **Best Course Project Award – Business Data Management (January 2025)**  
+This project was awarded the *Best Course Project* by IIT Madras for its outstanding application of BDM concepts to a real-world case study. The recognition highlights the project's innovation, data-driven strategy, and overall impact.
+
 ### Key Areas Analyzed  
 
-- *Potential Score Dataset* – Understanding customer behavior and identifying high-retention zones within the community.
+- *Potential Score Dataset* – Understanding customer behavior and identifying high-retention zones within the community.  
 - *Inventory Management Dataset* – Tracking stock levels, reducing wastage, and optimizing purchasing decisions.  
 - *Menu Score Dataset* – Evaluating item popularity, profitability, and pricing strategies.  
 
@@ -31,31 +36,27 @@ This project applies *Business Data Management principles* to a real-world busin
 
 This repository contains the following files and directories:
 
-📂 Datasets
-  📂 Inventory Management
-    Finalized
-    Primitive
-    readme.md
-  📂 Menu Scores
-    Finalized
-    Finalized Optimized Menu Image
-    Finalized Optimized Menu
-    Primitive
-    readme.md
-  📂Potential Scores
-    Potential Included
-    Primitive
-    readme.md
+📂 Datasets  
+  📂 Inventory Management  
+    Finalized  
+    Primitive  
+    readme.md  
+  📂 Menu Scores  
+    Finalized  
+    Finalized Optimized Menu Image  
+    Finalized Optimized Menu  
+    Primitive  
+    readme.md  
+  📂 Potential Scores  
+    Potential Included  
+    Primitive  
+    readme.md  
 
-📄 Customer Segmentation and Price Optimization Strategies for Singi's Kitchen
-
-📄 End-term
-
-📄 Mid-term
-
-📄 Proposal
-
-🗂️ README.md (You are here)
+📄 Customer Segmentation and Price Optimization Strategies for Singi's Kitchen  
+📄 End-term  
+📄 Mid-term  
+📄 Proposal  
+🗂️ README.md (You are here)  
 
 ## Thank You  
 
@@ -63,8 +64,8 @@ Thank you for taking the time to explore this project. I hope it provides valuab
 
 If you found this project helpful, consider *starring* ⭐ the repository to show your support.  
 
-## Additional
+## Additional  
 
-Google Colab Notebook link : https://colab.research.google.com/drive/1uVTjeAamSRRFAuMKcTWrMW21vuKISlDp
+Google Colab Notebook link: https://colab.research.google.com/drive/1uVTjeAamSRRFAuMKcTWrMW21vuKISlDp  
 
-Contact: 23f2000690@ds.study.iitm.ac.in
+Contact: 23f2000690@ds.study.iitm.ac.in  
